@@ -8,6 +8,8 @@
 
 ---
 
+**THIS IS NOW ARCHIVED AS I HAVE MOVED ONTO NIXOS AND NOCTALIA AND THUS NO LONGER USE IT**
+
 ## **Preview**
 
 <img width="1920" height="1080" alt="screenshot-2025-08-23-131506" src="https://github.com/user-attachments/assets/6a6c7ab1-10cc-4140-8c99-ad24c7d2eab7" />
